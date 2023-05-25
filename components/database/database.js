@@ -21,7 +21,7 @@ export const Items = [
     offPercentage: 10,
     productImage: require('../database/images/products/headset1.jpg'),
     isAvailable: true,
-    prouctImageList: [
+    productImageList: [
       require('../database/images/products/headset1.jpg'),
       require('../database/images/products/headset2.jpg'),
       require('../database/images/products/headset3.jpg'),
@@ -38,7 +38,7 @@ export const Items = [
     offPercentage: 10,
     productImage: require('../database/images/accessories/accessories1.jpg'),
     isAvailable: true,
-    prouctImageList: [
+    productImageList: [
       require('../database/images/accessories/accessories1.jpg'),
       require('../database/images/accessories/accessories2.jpg'),
       require('../database/images/accessories/accessories3.jpg'),
@@ -51,11 +51,11 @@ export const Items = [
     productPrice: 999,
     description:
       'Up to 20 hours battery life | Super powerfull Bass | 400 dynamic driver | bluetoot',
-    isOff: true,
+    isOff: false,
     offPercentage: 10,
     productImage: require('../database/images/accessories/accessories2.jpg'),
     isAvailable: true,
-    prouctImageList: [
+    productImageList: [
       require('../database/images/accessories/accessories1.jpg'),
       require('../database/images/accessories/accessories3.jpg'),
       require('../database/images/accessories/accessories4.jpg'),
@@ -68,11 +68,11 @@ export const Items = [
     productPrice: 1799,
     description:
       'Up to 20 hours battery life | Super powerfull Bass | 400 dynamic driver | bluetoot',
-    isOff: true,
+    isOff: false,
     offPercentage: 10,
     productImage: require('../database/images/products/headset2.jpg'),
     isAvailable: false,
-    prouctImageList: [
+    productImageList: [
       require('../database/images/products/headset1.jpg'),
       require('../database/images/products/headset4.jpg'),
       require('../database/images/products/headset3.jpg'),
@@ -89,7 +89,7 @@ export const Items = [
     offPercentage: 10,
     productImage: require('../database/images/products/headset1.jpg'),
     isAvailable: true,
-    prouctImageList: [
+    productImageList: [
       require('../database/images/products/headset1.jpg'),
       require('../database/images/products/headset2.jpg'),
       require('../database/images/products/headset3.jpg'),
@@ -106,7 +106,7 @@ export const Items = [
     offPercentage: 10,
     productImage: require('../database/images/products/headset5.jpg'),
     isAvailable: true,
-    prouctImageList: [
+    productImageList: [
       require('../database/images/products/headset1.jpg'),
       require('../database/images/products/headset2.jpg'),
       require('../database/images/products/headset4.jpg'),
