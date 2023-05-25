@@ -13,7 +13,7 @@ export const Items = [
   {
     id: 1,
     category: 'product',
-    productName: '',
+    productName: 'Headset A33',
     productPrice: 1799,
     description:
       'Up to 20 hours battery life | Super powerfull Bass | 400 dynamic driver | bluetoot',
@@ -30,7 +30,7 @@ export const Items = [
   {
     id: 2,
     category: 'accessory',
-    productName: '',
+    productName: 'Earphone 2',
     productPrice: 199,
     description:
       'Up to 20 hours battery life | Super powerfull Bass | 400 dynamic driver | bluetoot',
@@ -47,7 +47,7 @@ export const Items = [
   {
     id: 3,
     category: 'accessory',
-    productName: '',
+    productName: 'ACC Ear2',
     productPrice: 999,
     description:
       'Up to 20 hours battery life | Super powerfull Bass | 400 dynamic driver | bluetoot',
@@ -64,7 +64,7 @@ export const Items = [
   {
     id: 4,
     category: 'product',
-    productName: '',
+    productName: 'Air Gamming 2',
     productPrice: 1799,
     description:
       'Up to 20 hours battery life | Super powerfull Bass | 400 dynamic driver | bluetoot',
@@ -81,7 +81,7 @@ export const Items = [
   {
     id: 5,
     category: 'product',
-    productName: '',
+    productName: 'Head Bass 1',
     productPrice: 1799,
     description:
       'Up to 20 hours battery life | Super powerfull Bass | 400 dynamic driver | bluetoot',
@@ -96,9 +96,9 @@ export const Items = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     category: 'product',
-    productName: '',
+    productName: 'ROG 33',
     productPrice: 1799,
     description:
       'Up to 20 hours battery life | Super powerfull Bass | 400 dynamic driver | bluetoot',
